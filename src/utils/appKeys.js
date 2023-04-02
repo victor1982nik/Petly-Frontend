@@ -34,7 +34,8 @@ const BACKEND_ENDPOINTS = {
 
 export const BACKEND_BASE_URL =
   // eslint-disable-next-line no-undef
-  process.env.REACT_APP_BACKEND_BASE_URL ?? 'http://localhost:4000';
+  'https://petlybackend.onrender.com';
+// process.env.REACT_APP_BACKEND_BASE_URL ?? 'http://localhost:4000';
 export const FRONTEND_BASE_URL =
   // eslint-disable-next-line no-undef
   process.env.REACT_APP_FRONTEND_BASE_URL ?? 'http://localhost:3000';
