@@ -1,8 +1,8 @@
 {
-  "name": "Petly-Frontend",
+  "name": "0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chidorishar.github.io/Petly-Frontend/",
+  "homepage": "https://victor1982nik.github.io/Petly-Frontend/",
   "dependencies": {
     "@ngxs/hmr-plugin": "^3.7.6",
     "@reduxjs/toolkit": "^1.9.3",
